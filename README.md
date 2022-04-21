@@ -8,7 +8,7 @@
 </p>
 
 
-<img src="https://media.giphy.com/media/y3wBjXMffuFjy/giphy.gif" width="50" /> <b><i align="center">"Welcome to my profile!”</i></b><img src="https://media.giphy.com/media/y3wBjXMffuFjy/giphy.gif" width="50" />
+<h3 align="center" >Welcome to my profile!</h3>
 
 
 
