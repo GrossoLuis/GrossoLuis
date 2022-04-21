@@ -3,8 +3,8 @@
 
 
 <p align="center">
- <a href = "mailto: luisgrossol@hotmail..com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" /></a>
-  <a href = "https://www.linkedin.com/in/luis-e-grosso/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" height="30" width="40" /></a>
+ <a href = "mailto: luisgrossol@hotmail..com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" height="30" width="40" /></a>
+  <a href = "https://www.linkedin.com/in/luis-e-grosso/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="40" /></a>
 </p>
 
 
