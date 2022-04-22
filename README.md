@@ -7,7 +7,7 @@
   <a href = "https://www.linkedin.com/in/luis-e-grosso/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="40" /></a>
 </p>
 
-<br></br>
+<hr></hr>
 <h3 align="center" >Welcome to my profile!</h3>
 
 
