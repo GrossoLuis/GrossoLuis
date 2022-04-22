@@ -9,13 +9,27 @@
 
 <hr></hr>
 
-<p align="center">I'm a Front End Web Developer a graduated from <b>Henry Full Stack Bootcamp</b> and a student of the career of Certified Tech Developer course at <b>Digital House</b> from Argentina.
-I'm also currently working my projects.
-I currently passionate about, Progressive Web Apps, AWS, Web Performance, Automation and find solutions to everyday problems.
-When I'm not developing and building things, I'm training and playing sports or writing an article.But most of my days are spent working on projects while listening to music, studying or training.</p>
+<p align="center">Hello, I am Luis Grosso (you can call me <b>Lucho</b>)a graduated from <b>Henry Full Stack Bootcamp</b> and a student of the career of Certified Tech Developer course at <b>Digital House</b> from Argentina. <br>
+I am also working on my own projects <br>
+I currently passionate about, Progressive Web Apps, AWS, Web Performance, Automation and find solutions to everyday problems.<br>
+When I'm not developing and building things, I'm training and playing sports or writing an article.<br>
+But most of my days are spent working on projects while listening to music, studying or training.
 <br> 
+<b><h3 align="center">Welcome!💻</h3></b>
+</p>
 
 
+<ul><h3>  About me 👦🏽</h3>
+ <li> I’m currently looking for my first job as <b>Web Developer.</b></li>
+ <li>I’m currently learning about <b>Next js</b> and <b>AWS.</b></li>
+ <li>I am always available for any questions.</li>
+ <li> I enjoy working in a team and especially on open source projects.</li>
+
+
+
+
+
+</ul>
 
 
 
