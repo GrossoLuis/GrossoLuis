@@ -8,7 +8,12 @@
 </p>
 
 <hr></hr>
-<h3 align="center" >Welcome to my profile!</h3>
+
+<p align="center">I'm a Front End Web Developer a graduated from <b>Henry Full Stack Bootcamp</b> and a student of the career of Certified Tech Developer course at <b>Digital House</b> from Argentina.
+I'm also currently working my projects.
+I currently passionate about, Progressive Web Apps, AWS, Web Performance, Automation and find solutions to everyday problems.
+When I'm not developing and building things, I'm training and playing sports or writing an article.But most of my days are spent working on projects while listening to music, studying or training.</p>
+<br> 
 
 
 
