@@ -26,7 +26,30 @@ But most of my days are spent working on projects while listening to music, stud
  <li> I enjoy working in a team and especially on open source projects.</li>
 </ul>
 
-<h3> My Stack 🚀 </h3> 
+<h3> My Stack 🔧 </h3> 
+<code><abbr title="html"><img height="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html"/></abbr>           </code>
+<code><abbr title="css"><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" /></abbr>
+</code>
+<code><abbr title="javascript"><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"/></abbr></code>
+<code><abbr title="sass"><img height="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" /></abbr>
+</code>
+<code><abbr title="react"><img height="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react"/></abbr>
+</code>
+<code><abbr title="redux"><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" /></abbr>
+</code>
+<code><abbr title="next js"><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next js" /></abbr>
+</code>
+<br>
+<code><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" />
+</code>
+<code><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" />
+</code>
+<code><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql"/>
+</code>
+<code><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
+</code>
+<code><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
+</code>
 
 
 
@@ -38,17 +61,12 @@ But most of my days are spent working on projects while listening to music, stud
 
 
 
-<!--
-**GrossoLuis/GrossoLuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
