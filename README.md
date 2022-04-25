@@ -10,8 +10,8 @@
 <hr></hr>
 
 <p align="center">Hello, I am Luis Grosso (you can call me <b>Lucho</b>)a graduated from <b>Henry Full Stack Bootcamp</b> and a student of the career of Certified Tech Developer course at <b>Digital House</b> from Argentina. <br>
-I am also working on my own projects <br>
-I currently passionate about, Progressive Web Apps, AWS, Web Performance, Automation and find solutions to everyday problems.<br>
+I am currently working on my own projects <br>
+I am passionate about, Progressive Web Apps, AWS, Web Performance, Automation and find solutions to everyday problems.<br>
 When I'm not developing and building things, I'm training and playing sports or writing an article.<br>
 But most of my days are spent working on projects while listening to music, studying or training.
 <br> 
