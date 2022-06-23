@@ -21,7 +21,7 @@ But most of my days are spent working on projects while listening to music, stud
 <h3>  About me 👦🏽</h3>
 <ul>
  <li> I’m currently looking for my first job as <b>Web Developer.</b></li>
- <li>I’m currently learning about <b>Next js</b> and <b>AWS.</b></li>
+ <li>I’m currently learning about <b>Next js</b> and <b>UI/UX Design.</b></li>
  <li>I am always available for any questions.</li>
  <li> I enjoy working in a team and especially on open source projects.</li>
 </ul>
