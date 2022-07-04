@@ -1,34 +1,34 @@
-<h1 align= "center"> Hi! 👋🏽 I am Luis Grosso </h1> 
-<h3 align="center">Fronted Developer & Tech Passionate </h3>
+<h1 align= "center"> Bienvenido, soy Lucho 🤙🏽 </h1> 
+<h3 align="center"> Desarrollador Frontend & Diseñador UX/UI</h3>
 
-
-<p align="center">
- <a href = "mailto: luisgrossol@hotmail..com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" height="30" width="40" /></a>
-  <a href = "https://www.linkedin.com/in/luis-e-grosso/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="40" /></a>
-</p>
+<p align= "center"><img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coding_6mjf.svg" height="350" width="500"  /></p>
 
 <hr></hr>
 
-<p align="center">Hello, I am Luis Grosso (you can call me <b>Lucho</b>)a graduated from <b>Henry Full Stack Bootcamp</b> and a student of the career of Certified Tech Developer course at <b>Digital House</b> from Argentina. <br>
-I am currently working on my own projects <br>
-I am passionate about, Progressive Web Apps, AWS, Web Performance, Automation and find solutions to everyday problems.<br>
-When I'm not developing and building things, I'm training and playing sports or writing an article.<br>
-But most of my days are spent working on projects while listening to music, studying or training.
+
+<p align="center">
+Hola, Soy Luis Grosso (podes decirme <b>Lucho</b>) y soy un Desarrollador Full Stack y actualmente tutor de Desarrollo Web. <br>
+Soy un apasionado por el desarrollo frontend y el diseño web, el cual lo plasmo en todos los proyectos que realizo. <br>
+Amo los deportes y la tecnologia, por lo cual siempre estoy entrenando y aprendiendo algo nuevo sobre 
+las tecnologias que se implementan dia a dia. 
 <br> 
-<b><h3 align="center">Welcome!💻</h3></b>
 </p>
 
-<h3>  About me 👦🏽</h3>
-<ul>
- <li> I’m currently looking for my first job as <b>Web Developer.</b></li>
- <li>I’m currently learning about <b>Next js</b> and <b>UI/UX Design.</b></li>
- <li>I am always available for any questions.</li>
- <li> I enjoy working in a team and especially on open source projects.</li>
-</ul>
 
-<h3 align="center"> My Stack 🔧 </h3> 
+<h3>Un poco mas sobre mi</h3>
+
+  <p>
+  📌 Estoy en la busqueda de mi primer trabajo como<b> Frontend Developer</b> <br>
+  📌 Actualmente estoy aprendiendo y practicando con tecnologias como <b>Next js</b> & <b>Typescript. <br>
+  📌 Estoy siempre disponible para cualquier pregunta o consulta <br>
+  </p>
+<h3>¿Estas interesado o queres saber más sobre mí? ¡Contáctame!</h3>    
+ <a href = "mailto: luisgrossol@hotmail..com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" height="30" width="40" /></a>
+  <a href = "https://www.linkedin.com/in/luis-e-grosso/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="40" /></a>
 
 
+<h3 align="center"> Mi Stack </h3> 
+    
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -111,6 +111,20 @@ But most of my days are spent working on projects while listening to music, stud
       </a>
       <br>Postgresql
     </td>
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
