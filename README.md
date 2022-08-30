@@ -1,5 +1,5 @@
 <h1 align= "center"> Bienvenido, soy Lucho 🤙🏽 </h1> 
-<h3 align="center"> Desarrollador Frontend & Diseñador UX/UI</h3>
+<h3 align="center"> Desarrollador Frontend & Diseñador Web</h3>
 
 <p align= "center"><img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coding_6mjf.svg" height="350" width="500"  /></p>
 
